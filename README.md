@@ -7,7 +7,8 @@
 
 # GRE
 
-1. Youtube Free Course(https://www.youtube.com/watch?v=DhUunRsa89w&list=PLTGjCRqeH7hPlLtgMdkS8I-iBFqqYCiBN&index=1)
+1. Youtube Free Course for Writing(https://www.youtube.com/watch?v=DhUunRsa89w&list=PLTGjCRqeH7hPlLtgMdkS8I-iBFqqYCiBN&index=1)
+2. ETS Writing Pool(https://www.ets.org/gre/revised_general/prepare/analytical_writing)
 
 
 # University & Labs
