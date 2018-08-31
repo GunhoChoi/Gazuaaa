@@ -5,6 +5,11 @@
 3. GRE Books (https://github.com/RajibTheKing/HSA/tree/master/GRE%20PACKAGE/GRE/BOOKS)
 
 
+# GRE
+
+1. Youtube Free Course(https://www.youtube.com/watch?v=DhUunRsa89w&list=PLTGjCRqeH7hPlLtgMdkS8I-iBFqqYCiBN&index=1)
+
+
 # University & Labs
 
 List from https://www.usnews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings
