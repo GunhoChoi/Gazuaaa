@@ -34,7 +34,8 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Neuroscience Institute(http://neuroscience.berkeley.edu/about/)
   - Carmena Lab no sign of ML..? (http://carmenalab.org/)
   - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
-
+  - CycleGAN Lab (https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
+  - Rise Lab (https://rise.cs.berkeley.edu/)
 
 - Caltech
 
