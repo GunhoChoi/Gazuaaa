@@ -22,7 +22,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - http://ai.stanford.edu/
   - https://engineering.stanford.edu/people/jure-leskovec
   - http://drorlab.stanford.edu/research.html
-
+  - https://geometry.stanford.edu/index.html
 
 
 - Berkeley
