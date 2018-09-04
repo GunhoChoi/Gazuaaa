@@ -19,6 +19,11 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 - Stanford
 
+  - http://ai.stanford.edu/
+  - https://engineering.stanford.edu/people/jure-leskovec
+
+
+
 - Berkeley
 
 - Caltech
