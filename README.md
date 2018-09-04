@@ -31,6 +31,11 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 - Berkeley
 
+  - Neuroscience Institute(http://neuroscience.berkeley.edu/about/)
+  - Carmena Lab no sign of ML..? (http://carmenalab.org/)
+  - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
+
+
 - Caltech
 
 - UCLA
