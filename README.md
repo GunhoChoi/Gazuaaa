@@ -53,6 +53,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - PhD programs (https://www.cs.ucla.edu/graduate-program/)
   - CS research labs (https://www.cs.ucla.edu/research-labs/)
   - Computational Biology (https://casb.ucla.edu//?_ga=2.35544609.1616422101.1536075166-1080899491.1536075166)
+  - NeuroScience (http://www.neuroscience.ucla.edu/)
 
 - UC San Diego
 
