@@ -36,6 +36,9 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
   - CycleGAN Lab (https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
   - Rise Lab (https://rise.cs.berkeley.edu/)
+  - Gireeja Ranade (https://people.eecs.berkeley.edu/~gireeja/?_ga=2.84282585.1322148379.1536049811-1969420073.1536049811#)
+  - Stuart Russell (https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html)
+
 
 - Caltech
 
