@@ -42,9 +42,25 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 - Caltech
 
+  - Computing + Mathematica Science (http://www.cms.caltech.edu/)
+  - Applied + Computational Mathematics (http://www.cms.caltech.edu/academics/grad_acm)
+  - Computer Science (http://www.cms.caltech.edu/academics/grad_cs)
+  - Computing + Mathematical Sciences (http://www.cms.caltech.edu/academics/grad_cms)
+  
+
 - UCLA
 
+  - PhD programs (https://www.cs.ucla.edu/graduate-program/)
+  - CS research labs (https://www.cs.ucla.edu/research-labs/)
+  - Computational Biology (https://casb.ucla.edu//?_ga=2.35544609.1616422101.1536075166-1080899491.1536075166)
+
 - UC San Diego
+
+  - All Departments (https://apply.grad.ucsd.edu/departments?_ga=2.37619367.684864235.1536071960-134630853.1536071960)
+  - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-science-cs75)
+  - Electrical and Computer Engineering
+ (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
+  - 
 
 - University of Washington
 
