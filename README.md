@@ -25,6 +25,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Geometric, PointNet, Graphics Prof.Leonidas Guibas (https://geometry.stanford.edu/index.html)
   - General ML,DL,RL (https://cs.stanford.edu/~ermon/)
   - http://ai.stanford.edu/~tengyuma/
+  - Neuro AI LAB(http://neuroailab.stanford.edu/people.html)
 
 
 - Berkeley
