@@ -26,6 +26,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - General ML,DL,RL (https://cs.stanford.edu/~ermon/)
   - http://ai.stanford.edu/~tengyuma/
   - Neuro AI LAB(http://neuroailab.stanford.edu/people.html)
+  - 3D Gemometry (http://cvgl.stanford.edu/silvio/)
 
 
 - Berkeley
