@@ -20,9 +20,10 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 - Stanford
 
   - http://ai.stanford.edu/
-  - https://engineering.stanford.edu/people/jure-leskovec
-  - http://drorlab.stanford.edu/research.html
-  - https://geometry.stanford.edu/index.html
+  - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
+  - Not much information... (http://drorlab.stanford.edu/research.html)
+  - Geometric, PointNet, Graphics Prof.Leonidas Guibas (https://geometry.stanford.edu/index.html)
+  - General ML,DL,RL (https://cs.stanford.edu/~ermon/)
 
 
 - Berkeley
