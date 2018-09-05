@@ -62,6 +62,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-science-cs75)
   - Electrical and Computer Engineering
  (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
+ - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
 
 - University of Washington
 
