@@ -66,7 +66,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 <동부>
 
-- University of Michigan — Ann Arbor 
+- University of Michigan 
 
 - Georgia Institute of Technology 
 
@@ -86,3 +86,4 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - CS & AI (https://www.csail.mit.edu/)
   - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
   - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
+  - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
