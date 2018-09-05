@@ -61,7 +61,6 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-science-cs75)
   - Electrical and Computer Engineering
  (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
-  - 
 
 - University of Washington
 
@@ -77,4 +76,13 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 - Carnegie Mellon
 
+  - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
+  - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
+  - Computational Biology (http://www.compbio.cmu.edu/)
+
 - MIT
+
+  - Management Sloan school InfoTech (http://mitsloan.mit.edu/phd/program-overview/information-technologies/)
+  - CS & AI (https://www.csail.mit.edu/)
+  - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
+  - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
