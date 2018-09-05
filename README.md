@@ -27,6 +27,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - http://ai.stanford.edu/~tengyuma/
   - Neuro AI LAB(http://neuroailab.stanford.edu/people.html)
   - 3D Gemometry (http://cvgl.stanford.edu/silvio/)
+  - InfoLab (https://cs.stanford.edu/research/infolab)
 
 
 - Berkeley
@@ -63,6 +64,8 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
  (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
 
 - University of Washington
+
+  - MODE Lab(http://mode.cs.washington.edu/)
 
 <동부>
 
