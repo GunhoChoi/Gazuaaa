@@ -91,3 +91,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
   - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
   - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
+
+
+- 장학금 
+  - 관정장학금(석사도 가능)
