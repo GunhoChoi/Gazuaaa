@@ -95,5 +95,6 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 - 장학금 
   - 관정장학금(석사도 가능)
+  - 한국 장학재단1 (https://www.samsungfire.com/CnLc_Contents.do?method=getDetail&lifecareType=04&idx=00000638)
   - 한국 장학재단 http://rokblog.tistory.com/278
   - 외국 장학 https://www.studyusa.com/ko/a/855/%EB%AF%B8%EA%B5%AD-%EC%9C%A0%ED%95%99%EC%9D%84-%EA%B3%84%ED%9A%8D-%EC%A4%91%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9E%A5%ED%95%99%EA%B8%88
