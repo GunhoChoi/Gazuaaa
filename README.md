@@ -11,10 +11,14 @@
 3. ETS Writing Pool(https://www.ets.org/gre/revised_general/prepare/analytical_writing)
 
 
-# University & Labs
+# University & Labs (sort by Areas of research)
+
+
+
+# University & Labs (sort by Univ.)
 
 List from https://www.usnews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings
-- CS Ranking (http://csrankings.org/#/index?all)
+
 
 <서부>
 
