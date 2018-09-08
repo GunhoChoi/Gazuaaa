@@ -32,7 +32,16 @@
     - Ariel Procaccia (http://procaccia.info/)
     - http://www.cs.cmu.edu/~bapoczos/
     - Active Learning !!! (https://www.cs.cmu.edu/~ninamf/)
+    - http://zicokolter.com/
+    - ...
+    
+  - UCLA
+    - Adnan Darwiche (http://reasoning.cs.ucla.edu/)
+    - Guy Van den Broeck (http://web.cs.ucla.edu/~guyvdb/starai-lab/)
+    - Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/index.html)
     - 
+    
+    
     
     
 
