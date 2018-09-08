@@ -31,9 +31,10 @@
     - Pradeep Ravikumar (http://www.cs.cmu.edu/~pradeepr/)
     - Ariel Procaccia (http://procaccia.info/)
     - http://www.cs.cmu.edu/~bapoczos/
+    - Active Learning !!! (https://www.cs.cmu.edu/~ninamf/)
     - 
-
-
+    
+    
 
 # University & Labs (sort by Univ.)
 
