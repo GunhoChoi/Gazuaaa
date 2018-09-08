@@ -13,6 +13,10 @@
 
 # University & Labs (sort by Areas of research)
 
+- Comp. bio & bioinformatics
+
+  - CMU
+    - Sailing Lab (http://www.sailing.cs.cmu.edu/main/)
 
 
 # University & Labs (sort by Univ.)
