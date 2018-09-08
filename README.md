@@ -14,6 +14,7 @@
 # University & Labs
 
 List from https://www.usnews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings
+- CS Ranking (http://csrankings.org/#/index?all)
 
 <서부>
 
