@@ -17,6 +17,11 @@
 
   - CMU
     - Sailing Lab (http://www.sailing.cs.cmu.edu/main/)
+    - Jaime Carbonell (https://www.cs.cmu.edu/~jgc/phd_students.html)
+    - Tom Mitchell (http://www.cs.cmu.edu/~tom/)
+  
+  - UCLA 
+    - 
 
 
 # University & Labs (sort by Univ.)
