@@ -19,9 +19,20 @@
     - Sailing Lab (http://www.sailing.cs.cmu.edu/main/)
     - Jaime Carbonell (https://www.cs.cmu.edu/~jgc/phd_students.html)
     - Tom Mitchell (http://www.cs.cmu.edu/~tom/)
-  
-  - UCLA 
+    - Ameet Talwalkar (http://www.cs.cmu.edu/~atalwalk/)
+    
+  - UC Berkeley
+    - http://www.jennifer.listgarten.com/
+    - https://people.eecs.berkeley.edu/~jordan/
+ 
+- Artificial Intelligence 
+
+  - CMU
+    - Pradeep Ravikumar (http://www.cs.cmu.edu/~pradeepr/)
+    - Ariel Procaccia (http://procaccia.info/)
+    - http://www.cs.cmu.edu/~bapoczos/
     - 
+
 
 
 # University & Labs (sort by Univ.)
