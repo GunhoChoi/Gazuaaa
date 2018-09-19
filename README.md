@@ -21,7 +21,7 @@
     - Tom Mitchell (http://www.cs.cmu.edu/~tom/)
     - Ameet Talwalkar (http://www.cs.cmu.edu/~atalwalk/)
     
-  - UC Berkeley
+  - UC Berkeley 
     - http://www.jennifer.listgarten.com/
     - https://people.eecs.berkeley.edu/~jordan/
  
@@ -65,7 +65,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - InfoLab (https://cs.stanford.edu/research/infolab)
 
 
-- Berkeley
+- Berkeley (Due: Dec/17/2018)
 
   - Neuroscience Institute(http://neuroscience.berkeley.edu/about/)
   - Carmena Lab no sign of ML..? (http://carmenalab.org/)
@@ -84,14 +84,14 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Computing + Mathematical Sciences (http://www.cms.caltech.edu/academics/grad_cms)
   
 
-- UCLA
+- UCLA (Due: Dec/1/2018)
 
   - PhD programs (https://www.cs.ucla.edu/graduate-program/)
   - CS research labs (https://www.cs.ucla.edu/research-labs/)
   - Computational Biology (https://casb.ucla.edu//?_ga=2.35544609.1616422101.1536075166-1080899491.1536075166)
   - NeuroScience (http://www.neuroscience.ucla.edu/)
 
-- UC San Diego
+- UC San Diego (December 17, 2018)
 
   - All Departments (https://apply.grad.ucsd.edu/departments?_ga=2.37619367.684864235.1536071960-134630853.1536071960)
   - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-science-cs75)
@@ -113,13 +113,13 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 - University of Texas—Austin 
 
-- Carnegie Mellon
+- Carnegie Mellon (November 30th, 2018)
 
   - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
   - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
   - Computational Biology (http://www.compbio.cmu.edu/)
 
-- MIT
+- MIT (December 15, 2018)
 
   - Management Sloan school InfoTech (http://mitsloan.mit.edu/phd/program-overview/information-technologies/)
   - CS & AI (https://www.csail.mit.edu/)
