@@ -100,10 +100,11 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
   
   
-- USC
+- USC (December 15, 2018)
 
   - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
   - Hao Li (http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
+  - SIGNAL AND IMAGE PROCESSING (https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
 
 - University of Washington
 
