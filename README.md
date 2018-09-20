@@ -98,6 +98,11 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Electrical and Computer Engineering
  (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
   - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
+  
+  
+- USC
+
+  - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
 
 - University of Washington
 
