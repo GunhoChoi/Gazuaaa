@@ -103,6 +103,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 - USC
 
   - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
+  - Hao Li (http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
 
 - University of Washington
 
