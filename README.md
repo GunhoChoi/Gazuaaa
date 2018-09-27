@@ -56,7 +56,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 <서부>
 
-- Stanford
+- Stanford (December 1, 2018)
 
   - http://ai.stanford.edu/
   - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
@@ -80,7 +80,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Stuart Russell (https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html)
 
 
-- Caltech
+- Caltech (Dec 1, 2018)
 
   - Computing + Mathematica Science (http://www.cms.caltech.edu/)
   - Applied + Computational Mathematics (http://www.cms.caltech.edu/academics/grad_acm)
