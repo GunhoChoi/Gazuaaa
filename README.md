@@ -13,6 +13,14 @@
 
 # University & Labs (sort by Areas of research)
 
+
+- Quantitative Phase Imaging
+
+  - UIUC ECE Gabriel Popescu (http://light.ece.illinois.edu/index.html/)
+  - Berkeley EECS Laura Waller Lab (http://www.laurawaller.com/)
+  - Boston University Lei Tian Lab (http://sites.bu.edu/tianlab/)
+
+
 - Comp. bio & bioinformatics
 
   - CMU
@@ -41,11 +49,7 @@
     - Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/index.html)
 
 
-- Quantitative Phase Imaging
 
-  - UIUC ECE Gabriel Popescu (http://light.ece.illinois.edu/index.html/)
-  - Berkeley EECS Laura Waller Lab (http://www.laurawaller.com/)
-  - Boston University Lei Tian Lab (http://sites.bu.edu/tianlab/)
     
     
 
