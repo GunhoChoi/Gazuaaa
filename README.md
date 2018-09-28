@@ -19,6 +19,7 @@
   - UIUC ECE Gabriel Popescu (http://light.ece.illinois.edu/index.html/)
   - Berkeley EECS Laura Waller Lab (http://www.laurawaller.com/)
   - Boston University Lei Tian Lab (http://sites.bu.edu/tianlab/)
+  - MIT George Barbastathis (http://web.mit.edu/smart/research/biosym/dir_biosym%20-%20George.html)
 
 
 - Comp. bio & bioinformatics
