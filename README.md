@@ -91,6 +91,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Applied + Computational Mathematics (http://www.cms.caltech.edu/academics/grad_acm)
   - Computer Science (http://www.cms.caltech.edu/academics/grad_cs)
   - Computing + Mathematical Sciences (http://www.cms.caltech.edu/academics/grad_cms)
+  - Computation & Neural Systems (http://www.cns.caltech.edu/index.html)
   
 
 - UCLA (Due: Dec/1/2018)
