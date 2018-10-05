@@ -83,6 +83,9 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Rise Lab (https://rise.cs.berkeley.edu/)
   - Gireeja Ranade (https://people.eecs.berkeley.edu/~gireeja/?_ga=2.84282585.1322148379.1536049811-1969420073.1536049811#)
   - Stuart Russell (https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html)
+  
+  ##Due: Nov/30/2018
+  - Comp. Bio (http://ccb.berkeley.edu/academics/phd-in-computational-biology/)
 
 
 - Caltech (Dec 1, 2018)
