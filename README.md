@@ -104,13 +104,12 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 - UC San Diego (December 17, 2018)
 
   - All Departments (https://apply.grad.ucsd.edu/departments?_ga=2.37619367.684864235.1536071960-134630853.1536071960)
-  - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-science-cs75)
-  - Electrical and Computer Engineering
- (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
-  - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
+  - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
+  - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
   - UCSD BioStatistics (https://apply.grad.ucsd.edu/departments/biostatistics)
-  
-  
+  - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
+
+
 - USC (December 15, 2018)
 
   - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
