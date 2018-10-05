@@ -76,7 +76,6 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 - Berkeley (Due: Dec/17/2018)
 
-  - Neuroscience Institute(http://neuroscience.berkeley.edu/about/)
   - Carmena Lab no sign of ML..? (http://carmenalab.org/)
   - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
   - CycleGAN Lab (https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
@@ -86,6 +85,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   
   ##Due: Nov/30/2018
   - Comp. Bio (http://ccb.berkeley.edu/academics/phd-in-computational-biology/)
+  - Neuroscience Institute(http://neuroscience.berkeley.edu/about/)
 
 
 - Caltech (Dec 1, 2018)
