@@ -74,8 +74,10 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - InfoLab (https://cs.stanford.edu/research/infolab)
 
 
-- Berkeley (Due: Dec/17/2018)
+- UC Berkeley 
 
+  ### Due: Dec/17/2018
+  - Laura Waller Lab (http://www.laurawaller.com/)
   - Carmena Lab no sign of ML..? (http://carmenalab.org/)
   - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
   - CycleGAN Lab (https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
@@ -83,7 +85,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Gireeja Ranade (https://people.eecs.berkeley.edu/~gireeja/?_ga=2.84282585.1322148379.1536049811-1969420073.1536049811#)
   - Stuart Russell (https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html)
   
-  ##Due: Nov/30/2018
+  ### Due: Nov/30/2018
   - Comp. Bio (http://ccb.berkeley.edu/academics/phd-in-computational-biology/)
   - Neuroscience Institute(http://neuroscience.berkeley.edu/about/)
 
