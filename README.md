@@ -99,11 +99,16 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - CS research labs (https://www.cs.ucla.edu/research-labs/)
   - Computational Biology (https://casb.ucla.edu//?_ga=2.35544609.1616422101.1536075166-1080899491.1536075166)
   - NeuroScience (http://www.neuroscience.ucla.edu/)
+  
+  - BioMathematics (https://www.biomath.ucla.edu)
+  - BioStats (https://www.biostat.ucla.edu/)
+  - Center for Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/)
+  - eHealth Research Lab (http://er.cs.ucla.edu/)
 
 
 - UC San Diego (December 17, 2018)
 
-  - All Departments (https://apply.grad.ucsd.edu/departments?_ga=2.37619367.684864235.1536071960-134630853.1536071960)
+  - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
   - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
   - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
   - UCSD BioStatistics (https://apply.grad.ucsd.edu/departments/biostatistics)
