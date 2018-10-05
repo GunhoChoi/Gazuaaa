@@ -100,6 +100,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Computational Biology (https://casb.ucla.edu//?_ga=2.35544609.1616422101.1536075166-1080899491.1536075166)
   - NeuroScience (http://www.neuroscience.ucla.edu/)
 
+
 - UC San Diego (December 17, 2018)
 
   - All Departments (https://apply.grad.ucsd.edu/departments?_ga=2.37619367.684864235.1536071960-134630853.1536071960)
