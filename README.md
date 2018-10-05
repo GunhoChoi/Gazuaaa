@@ -78,12 +78,12 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
   ### Due: Dec/17/2018
   - Laura Waller Lab (http://www.laurawaller.com/)
-  - Carmena Lab no sign of ML..? (http://carmenalab.org/)
   - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
-  - CycleGAN Lab (https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
+  - CycleGAN Lab (https://people.eecs.berkeley.edu/~efros/?_ga=2.124479817.2109654356.1538755889-1969420073.1536049811, https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
   - Rise Lab (https://rise.cs.berkeley.edu/)
   - Gireeja Ranade (https://people.eecs.berkeley.edu/~gireeja/?_ga=2.84282585.1322148379.1536049811-1969420073.1536049811#)
   - Stuart Russell (https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html)
+  - Dawn Song (https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.22200696.2109654356.1538755889-1969420073.1536049811)
   
   ### Due: Nov/30/2018
   - Comp. Bio (http://ccb.berkeley.edu/academics/phd-in-computational-biology/)
