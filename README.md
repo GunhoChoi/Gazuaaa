@@ -71,6 +71,10 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   ### [Applied Science & Tech](https://grad.berkeley.edu/program/applied-science-tech/)
 
   ### [Industrial Engineering & Operations Research](https://ieor.berkeley.edu/) Due: December 7, 2018
+  
+  ### [UC Berkeley Vision](https://vision.berkeley.edu/) Due: January 7, 2019
+  
+  
 
 ## Caltech (Dec 1, 2018)
 
@@ -109,7 +113,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Center for Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/)
   - eHealth Research Lab (http://er.cs.ucla.edu/)
 
-
+  - Samueli Engineering (https://samueli.ucla.edu/)
 
 
 
