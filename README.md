@@ -11,8 +11,6 @@
 3. ETS Writing Pool(https://www.ets.org/gre/revised_general/prepare/analytical_writing)
 
 
-# University & Labs (sort by Areas of research)
-
 
 - Quantitative Phase Imaging
 
@@ -22,37 +20,6 @@
   - MIT George Barbastathis (http://web.mit.edu/smart/research/biosym/dir_biosym%20-%20George.html)
 
 
-- Comp. bio & bioinformatics
-
-  - CMU
-    - Sailing Lab (http://www.sailing.cs.cmu.edu/main/)
-    - Jaime Carbonell (https://www.cs.cmu.edu/~jgc/phd_students.html)
-    - Tom Mitchell (http://www.cs.cmu.edu/~tom/)
-    - Ameet Talwalkar (http://www.cs.cmu.edu/~atalwalk/)
-    
-  - UC Berkeley 
-    - http://www.jennifer.listgarten.com/
-    - https://people.eecs.berkeley.edu/~jordan/
- 
-- Artificial Intelligence 
-
-  - CMU
-    - Pradeep Ravikumar (http://www.cs.cmu.edu/~pradeepr/)
-    - Ariel Procaccia (http://procaccia.info/)
-    - http://www.cs.cmu.edu/~bapoczos/
-    - Active Learning !!! (https://www.cs.cmu.edu/~ninamf/)
-    - http://zicokolter.com/
-    - ...
-    
-  - UCLA
-    - Adnan Darwiche (http://reasoning.cs.ucla.edu/)
-    - Guy Van den Broeck (http://web.cs.ucla.edu/~guyvdb/starai-lab/)
-    - Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/index.html)
-
-
-
-    
-    
 
 # University & Labs (sort by Univ.)
 
@@ -63,11 +30,11 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 ## Stanford (December 1, 2018)
 
-  ### Electrical Engineering (https://ee.stanford.edu/admissions/phd)
+  ### Electrical Engineering[https://ee.stanford.edu/admissions/phd]
   
-  #### Information Theory & Applications (https://ee.stanford.edu/research/information-theory-and-applications)
+  #### Information Theory & Applications[https://ee.stanford.edu/research/information-theory-and-applications]
   
-  - 
+  #### Photonics, Nanoscience and Quantum Technology[https://ee.stanford.edu/research/photonics-nanoscience-and-quantum-technology]
 
   
   - http://ai.stanford.edu/
@@ -167,6 +134,40 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
   - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
   - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
+
+
+
+
+
+- Comp. bio & bioinformatics
+
+  - CMU
+    - Sailing Lab (http://www.sailing.cs.cmu.edu/main/)
+    - Jaime Carbonell (https://www.cs.cmu.edu/~jgc/phd_students.html)
+    - Tom Mitchell (http://www.cs.cmu.edu/~tom/)
+    - Ameet Talwalkar (http://www.cs.cmu.edu/~atalwalk/)
+    
+  - UC Berkeley 
+    - http://www.jennifer.listgarten.com/
+    - https://people.eecs.berkeley.edu/~jordan/
+ 
+- Artificial Intelligence 
+
+  - CMU
+    - Pradeep Ravikumar (http://www.cs.cmu.edu/~pradeepr/)
+    - Ariel Procaccia (http://procaccia.info/)
+    - http://www.cs.cmu.edu/~bapoczos/
+    - Active Learning !!! (https://www.cs.cmu.edu/~ninamf/)
+    - http://zicokolter.com/
+    - ...
+    
+  - UCLA
+    - Adnan Darwiche (http://reasoning.cs.ucla.edu/)
+    - Guy Van den Broeck (http://web.cs.ucla.edu/~guyvdb/starai-lab/)
+    - Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/index.html)
+
+
+
 
 
 - 장학금 
