@@ -103,21 +103,35 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 ## UCLA (Due: Dec/1/2018)
 
-  - PhD programs (https://www.cs.ucla.edu/graduate-program/)
-  - CS research labs (https://www.cs.ucla.edu/research-labs/)
-  - Computational Biology (https://casb.ucla.edu//?_ga=2.35544609.1616422101.1536075166-1080899491.1536075166)
-  - NeuroScience (http://www.neuroscience.ucla.edu/)
+  ### PhD programs(https://www.cs.ucla.edu/graduate-program/)
+
+  ### [Samueli Engineering](https://samueli.ucla.edu/)
   
-  - BioMathematics (https://www.biomath.ucla.edu)
-  - BioStats (https://www.biostat.ucla.edu/)
+  ### [CS labs](https://www.cs.ucla.edu/research-labs/)
+  
   - Center for Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/)
   - eHealth Research Lab (http://er.cs.ucla.edu/)
+  - Computer Graphics & Vision Laboratory (http://web.cs.ucla.edu/magix/)
+  - Statistical and Relational Artificial Intelligence (http://web.cs.ucla.edu/~guyvdb/starai-lab/)
 
-  - Samueli Engineering (https://samueli.ucla.edu/)
+  ### [EE Labs](https://www.ee.ucla.edu)
 
-
-
-
+  - [Ozcan Lab](http://innovate.ee.ucla.edu/welcome.html)
+  - [Speech Lab](http://www.seas.ucla.edu/spapl/index.html)
+  - [Neural Computation and Engineering lab](http://seas.ucla.edu/~kao/)
+  - [Wireless Health lab](http://www.seas.ucla.edu/~pottie/index.html)
+  - [AI & AI for medicine lab](http://medianetlab.ee.ucla.edu/NewWebsite/index.html)
+  
+  ### [Bio Engineering](https://www.bioeng.ucla.edu/research-a)
+  
+  - [Medical Imaging Informatics](https://www.mii.ucla.edu/research/areas/)  
+  
+  ### etc
+  
+  - NeuroScience (http://www.neuroscience.ucla.edu/)
+  - BioMathematics (https://www.biomath.ucla.edu)
+  - BioStats (https://www.biostat.ucla.edu/)
+ 
 
 ## University of Washington
 
