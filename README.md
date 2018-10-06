@@ -55,7 +55,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 ## UC Berkeley 
 
-  ### Due: Dec/17/2018
+  ### EECS (Due: Dec/17/2018)
   - Laura Waller Lab (http://www.laurawaller.com/)
   - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
   - CycleGAN Lab (https://people.eecs.berkeley.edu/~efros/?_ga=2.124479817.2109654356.1538755889-1969420073.1536049811, https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
@@ -70,7 +70,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   
   ### [Applied Science & Tech](https://grad.berkeley.edu/program/applied-science-tech/)
 
-  ###
+  ### [Industrial Engineering & Operations Research](https://ieor.berkeley.edu/) Due: December 7, 2018
 
 ## Caltech (Dec 1, 2018)
 
