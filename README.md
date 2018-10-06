@@ -97,7 +97,23 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - Computer Science (http://www.cms.caltech.edu/academics/grad_cs)
   - Computing + Mathematical Sciences (http://www.cms.caltech.edu/academics/grad_cms)
   - Computation & Neural Systems (http://www.cns.caltech.edu/index.html)
-  
+
+
+## USC (December 15, 2018)
+
+  - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
+  - Hao Li (http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
+  - SIGNAL AND IMAGE PROCESSING (https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
+
+
+## UC San Diego (December 17, 2018)
+
+  - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
+  - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
+  - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
+  - UCSD BioStatistics (https://apply.grad.ucsd.edu/departments/biostatistics)
+  - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
+
 
 ## UCLA (Due: Dec/1/2018)
 
@@ -112,20 +128,10 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   - eHealth Research Lab (http://er.cs.ucla.edu/)
 
 
-## UC San Diego (December 17, 2018)
-
-  - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
-  - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
-  - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
-  - UCSD BioStatistics (https://apply.grad.ucsd.edu/departments/biostatistics)
-  - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
 
 
-## USC (December 15, 2018)
 
-  - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
-  - Hao Li (http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
-  - SIGNAL AND IMAGE PROCESSING (https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
+
 
 ## University of Washington
 
