@@ -63,6 +63,13 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 ## Stanford (December 1, 2018)
 
+  ### Electrical Engineering (https://ee.stanford.edu/admissions/phd)
+  
+  #### Information Theory & Applications (https://ee.stanford.edu/research/information-theory-and-applications)
+  
+  - 
+
+  
   - http://ai.stanford.edu/
   - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
   - Not much information... (http://drorlab.stanford.edu/research.html)
