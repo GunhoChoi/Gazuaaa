@@ -30,12 +30,17 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 ## Stanford (December 1, 2018)
 
-  ### [Electrical Engineering](https://ee.stanford.edu/admissions/phd)
-  
-  #### [Information Theory & Applications](https://ee.stanford.edu/research/information-theory-and-applications)
-  
-  #### [Photonics, Nanoscience and Quantum Technology](https://ee.stanford.edu/research/photonics-nanoscience-and-quantum-technology)
+  ### [Programs](https://gradadmissions.stanford.edu/programs)
 
+  ### [Electrical Engineering](https://ee.stanford.edu/people/faculty)
+  
+  ### [Management Science and Engineering](https://msande.stanford.edu/research/research-areas/research-areas)
+  
+  ### [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/)
+  
+  ### [Computer Science](https://cs.stanford.edu/research)
+  
+  
   
   - http://ai.stanford.edu/
   - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
