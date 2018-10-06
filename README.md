@@ -40,7 +40,7 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
   
   ### [Computer Science](https://cs.stanford.edu/research)
   
-  
+  ### [Statistics](https://statistics.stanford.edu/)
   
   - http://ai.stanford.edu/
   - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
