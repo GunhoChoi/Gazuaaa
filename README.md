@@ -23,8 +23,7 @@
 
 # University & Labs (sort by Univ.)
 
-List from https://www.usnews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings
-
+List from https://www.usnews.com/best-graduate-schools/search?program=top-engineering-schools&name=&location=ca
 
 <서부>
 
@@ -87,7 +86,16 @@ List from https://www.usnews.com/best-graduate-schools/top-science-schools/artif
 
 ## USC (December 15, 2018)
 
+  ### [Academics](https://viterbischool.usc.edu/academics/)
+
+  ### [CS](https://www.cs.usc.edu/research/research-areas-labs/)
+  
   - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
+
+  ### [Biomedical Engineering](https://bme.usc.edu/research/#departmentlabs)
+  
+  ### []()
+
   - Hao Li (http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
   - SIGNAL AND IMAGE PROCESSING (https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
 
