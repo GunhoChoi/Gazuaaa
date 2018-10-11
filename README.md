@@ -27,8 +27,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 <서부>
 
-## 1st
-## Stanford (December 1, 2018) 
+## 1st Stanford (December 1, 2018) 
 
   ### [Programs](https://gradadmissions.stanford.edu/programs)
 
@@ -52,8 +51,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - 3D Gemometry (http://cvgl.stanford.edu/silvio/)
   - InfoLab (https://cs.stanford.edu/research/infolab)
 
-## 2nd
-## UC Berkeley 
+## 2nd UC Berkeley 
 
   ### EECS (Due: Dec/17/2018)
   - Laura Waller Lab (http://www.laurawaller.com/)
@@ -75,8 +73,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   ### [UC Berkeley Vision](https://vision.berkeley.edu/) Due: January 7, 2019
   
   
-## 4th 
-## Caltech (Dec 1, 2018)
+## 4th Caltech (Dec 1, 2018)
 
   - Computing + Mathematica Science (http://www.cms.caltech.edu/)
   - Applied + Computational Mathematics (http://www.cms.caltech.edu/academics/grad_acm)
@@ -84,8 +81,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - Computing + Mathematical Sciences (http://www.cms.caltech.edu/academics/grad_cms)
   - Computation & Neural Systems (http://www.cns.caltech.edu/index.html)
 
-## 10th
-## USC (December 15, 2018)
+## 10th USC (December 15, 2018)
 
   ### [Academics](https://viterbischool.usc.edu/academics/)
 
@@ -100,8 +96,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - Hao Li (http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
   - SIGNAL AND IMAGE PROCESSING (https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
 
-## 12th 
-## UC San Diego (December 17, 2018)
+## 12th UC San Diego (December 17, 2018)
 
   - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
   - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
@@ -109,8 +104,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - UCSD BioStatistics (https://apply.grad.ucsd.edu/departments/biostatistics)
   - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
 
-## 16th
-## UCLA (Due: Dec/1/2018)
+## 16th UCLA (Due: Dec/1/2018)
 
   ### PhD programs(https://www.cs.ucla.edu/graduate-program/)
 
@@ -169,8 +163,6 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
   - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
   - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
-
-
 
 
 
