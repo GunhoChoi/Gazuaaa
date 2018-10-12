@@ -18,6 +18,7 @@
   - Berkeley EECS Laura Waller Lab (http://www.laurawaller.com/)
   - Boston University Lei Tian Lab (http://sites.bu.edu/tianlab/)
   - MIT George Barbastathis (http://web.mit.edu/smart/research/biosym/dir_biosym%20-%20George.html)
+  - UCLA JALALI-LAB (http://www.photonics.ucla.edu/)
 
 
 
