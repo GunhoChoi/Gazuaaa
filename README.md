@@ -30,16 +30,30 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 ## 1st Stanford (December 1, 2018) 
 
   ### [Programs](https://gradadmissions.stanford.edu/programs)
-
-  ### [Electrical Engineering](https://ee.stanford.edu/people/faculty)
   
-  ### [Management Science and Engineering](https://msande.stanford.edu/research/research-areas/research-areas)
+  ### [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/) Dec 4th, 2018
   
-  ### [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/)
+  - [Research Overview](https://icme.stanford.edu/research/overview)
+  
+  Recommended background: strong foundation in mathematics with courses in linear algebra, numerical methods, probabilities, stochastics, and programming proficiency in C++ and MATLAB.
+  
+  ### [Electrical Engineering](https://ee.stanford.edu/people/faculty) Dec 4th, 2018
+  
+  #### [Physical Technology & Science](https://ee.stanford.edu/research/physical-technology-and-science)
+  
+  - [Hesselink Research Group](https://hesselink-lab.stanford.edu/)
+  
+  #### [Information Systems & Science](https://ee.stanford.edu/research/information-systems-and-science)
+  
+  
   
   ### [Computer Science](https://cs.stanford.edu/research)
   
-  ### [Statistics](https://statistics.stanford.edu/)
+  ### [Statistics](https://statistics.stanford.edu/)  
+  
+  ### [Management Science and Engineering](https://msande.stanford.edu/research/research-areas/research-areas)
+  
+  
   
   - http://ai.stanford.edu/
   - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
