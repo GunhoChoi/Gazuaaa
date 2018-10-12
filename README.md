@@ -103,14 +103,21 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
   ### [CS](https://www.cs.usc.edu/research/research-areas-labs/)
   
-  - Fei Sha (http://www-bcf.usc.edu/~feisha/projects.html)
+  - [Data Science Lab](http://dslab.usc.edu/index.php)
+  - [Statistical Machine Learning Lab](http://www-bcf.usc.edu/~feisha/projects.html)
 
   ### [Biomedical Engineering](https://bme.usc.edu/research/#departmentlabs)
   
-  ### []()
-
+  ### [Signal & Image Processing](https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
+  
+  - [Optics & ML Group](https://sites.usc.edu/omlp/) but not much research..
+  - [Neural Systems Engineering & Information Processing Lab](https://nseip.usc.edu/)
+  
+  ### [Industrial & Systems Engineering](https://ise.usc.edu/)
+  
+  - 
+  
   - Hao Li (http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
-  - SIGNAL AND IMAGE PROCESSING (https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
 
 ## 12th UC San Diego (December 17, 2018)
 
