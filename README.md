@@ -65,8 +65,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - [Research Overview](https://icme.stanford.edu/research/overview)
   
   Recommended background: strong foundation in mathematics with courses in linear algebra, numerical methods, probabilities, stochastics, and programming proficiency in C++ and MATLAB.
-  
-  ### [Statistics](https://statistics.stanford.edu/)  
+
+  ### [Statistics](https://statistics.stanford.edu/)  December 4, 2018
   
   - http://ai.stanford.edu/~tengyuma/
   
