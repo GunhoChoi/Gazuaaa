@@ -68,6 +68,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
   ### [Statistics](https://statistics.stanford.edu/)  December 4, 2018
   
+  - GRE Math 를 봐야함 이미 늦음  
   - http://ai.stanford.edu/~tengyuma/
   
   ### [Management Science and Engineering](https://msande.stanford.edu/research/research-areas/research-areas)
