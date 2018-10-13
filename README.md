@@ -42,8 +42,18 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
     
   ### [Computer Science](https://cs.stanford.edu/research)
   
-  - ???
+  #### [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
   
+  - [Stefano Ermon](https://cs.stanford.edu/~ermon/website/index.html) General ML,DL,RL
+  - [Geometric, PointNet, Graphics Prof.Leonidas Guibas](https://geometry.stanford.edu/index.html)
+  - [Fei Fei Li Lab](http://vision.stanford.edu/index.htm)
+  - [Computer vision & Geometry Lab](http://cvgl.stanford.edu/index.html)
+  - [AI for healthcare, AI for people-prediction, and smart-homes](http://robots.stanford.edu/index.html)
+  
+
+
+  - [Dror Lab ML & Microscopy](http://drorlab.stanford.edu/)
+    
   
   
   ### [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/) Dec 4th, 2018
@@ -56,11 +66,10 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   
   ### [Management Science and Engineering](https://msande.stanford.edu/research/research-areas/research-areas)
     
-  - http://ai.stanford.edu/
   - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
   - Not much information... (http://drorlab.stanford.edu/research.html)
-  - Geometric, PointNet, Graphics Prof.Leonidas Guibas (https://geometry.stanford.edu/index.html)
-  - General ML,DL,RL (https://cs.stanford.edu/~ermon/)
+  
+  
   - http://ai.stanford.edu/~tengyuma/
   - Neuro AI LAB(http://neuroailab.stanford.edu/people.html)
   - 3D Gemometry (http://cvgl.stanford.edu/silvio/)
