@@ -185,6 +185,40 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 <동부>
 
+## 1st MIT (December 15, 2018)
+
+  ### [EECS](http://www.eecs.mit.edu/research/34)
+  
+  - [ML & Statistics: Tamara Broderick](http://people.csail.mit.edu/tbroderick/index.html)
+  - [Information theory, statistics, applied probability: Guy Bresler](http://www.mit.edu/~gbresler/)
+  - [Vision & 3D](https://www.csail.mit.edu/person/william-freeman#projects)
+  - [General AI ?](http://people.csail.mit.edu/tommi/tommi.html)
+  - [AI](http://people.csail.mit.edu/stefje/research.html#bayo)
+  - [Optimization](http://people.csail.mit.edu/madry/)
+  - [HCI](https://www.csail.mit.edu/person/rob-miller#groups)
+  - [understood about data by looking at only a very small portion](https://www.csail.mit.edu/person/ronitt-rubinfeld)
+  - [Geometric Data Processing](http://people.csail.mit.edu/jsolomon/#research)
+  - [BIOMEDICAL OPTICAL IMAGING AND BIOPHOTONICS GROUP](http://www.rle.mit.edu/boib/)
+  - [John Guttag](https://www.csail.mit.edu/person/john-guttag#groups) 
+  - [Active Learning for planning](https://www.csail.mit.edu/person/tomas-lozano-perez#projects)
+  - [Signal Processing Group](http://www.rle.mit.edu/dsp-group/)
+  - [BIOMEDICAL OPTICAL IMAGING AND BIOPHOTONICS GROUP](http://www.rle.mit.edu/boib)
+  
+  - CS & AI (https://www.csail.mit.edu/)
+  - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
+  - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
+  - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
+
+
+## 6th Carnegie Mellon (November 30th, 2018) 
+
+  - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
+  - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
+  - Computational Biology (http://www.compbio.cmu.edu/)
+
+
+
+
 - University of Michigan 
 
 - Georgia Institute of Technology 
@@ -193,19 +227,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 - University of Texas—Austin 
 
-- Carnegie Mellon (November 30th, 2018)
 
-  - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
-  - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
-  - Computational Biology (http://www.compbio.cmu.edu/)
-
-- MIT (December 15, 2018)
-
-  - Management Sloan school InfoTech (http://mitsloan.mit.edu/phd/program-overview/information-technologies/)
-  - CS & AI (https://www.csail.mit.edu/)
-  - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
-  - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
-  - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
 
 
 
