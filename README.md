@@ -48,13 +48,11 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - [Geometric, PointNet, Graphics Prof.Leonidas Guibas](https://geometry.stanford.edu/index.html)
   - [Fei Fei Li Lab](http://vision.stanford.edu/index.htm)
   - [Computer vision & Geometry Lab](http://cvgl.stanford.edu/index.html)
-  - [AI for healthcare, AI for people-prediction, and smart-homes](http://robots.stanford.edu/index.html)
+  - [AI for healthcare, AI for people-prediction, and smart-homes](http://robots.stanford.edu/index.html) 사업도 하심
   
-
-
   - [Dror Lab ML & Microscopy](http://drorlab.stanford.edu/)
     
-  
+    
   
   ### [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/) Dec 4th, 2018
   
