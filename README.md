@@ -11,7 +11,6 @@
 3. ETS Writing Pool(https://www.ets.org/gre/revised_general/prepare/analytical_writing)
 
 
-
 - Quantitative Phase Imaging
 
   - UIUC ECE Gabriel Popescu (http://light.ece.illinois.edu/index.html/)
@@ -156,6 +155,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   ### [EE Labs](https://www.ee.ucla.edu)
 
   - [Ozcan Lab](http://innovate.ee.ucla.edu/welcome.html)
+  - [Jalali Lab](http://www.photonics.ucla.edu/)
   - [Speech Lab](http://www.seas.ucla.edu/spapl/index.html)
   - [Neural Computation and Engineering lab](http://seas.ucla.edu/~kao/)
   - [Wireless Health lab](http://www.seas.ucla.edu/~pottie/index.html)
@@ -171,10 +171,6 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - BioMathematics (https://www.biomath.ucla.edu)
   - BioStats (https://www.biostat.ucla.edu/)
  
-
-## University of Washington
-
-  - MODE Lab(http://mode.cs.washington.edu/)
 
 <동부>
 
