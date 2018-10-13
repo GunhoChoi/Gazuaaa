@@ -39,7 +39,6 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   
   #### [Information Systems & Science](https://ee.stanford.edu/research/information-systems-and-science)
     
-    
   ### [Computer Science](https://cs.stanford.edu/research)
   
   #### [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
@@ -52,8 +51,15 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   
   - [Dror Lab ML & Microscopy](http://drorlab.stanford.edu/)
     
-    
+ 
+  #### [InfoLab](https://cs.stanford.edu/research/infolab)
   
+  - [Graph Convolution](https://engineering.stanford.edu/people/jure-leskovec)
+  
+  #### [HCI](https://cs.stanford.edu/research/hci)
+  
+  - [How to make a good team?](https://hci.stanford.edu/msb/)
+    
   ### [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/) Dec 4th, 2018
   
   - [Research Overview](https://icme.stanford.edu/research/overview)
@@ -62,16 +68,13 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   
   ### [Statistics](https://statistics.stanford.edu/)  
   
+  - http://ai.stanford.edu/~tengyuma/
+  
   ### [Management Science and Engineering](https://msande.stanford.edu/research/research-areas/research-areas)
     
-  - NN using Networks (https://engineering.stanford.edu/people/jure-leskovec)
-  - Not much information... (http://drorlab.stanford.edu/research.html)
-  
-  
-  - http://ai.stanford.edu/~tengyuma/
+     
   - Neuro AI LAB(http://neuroailab.stanford.edu/people.html)
-  - 3D Gemometry (http://cvgl.stanford.edu/silvio/)
-  - InfoLab (https://cs.stanford.edu/research/infolab)
+  
 
 ## 2nd UC Berkeley 
 
