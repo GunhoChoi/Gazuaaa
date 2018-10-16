@@ -2,6 +2,7 @@
 
 1. 미국 대학원 준비하기 ① – 준비물편(http://ppss.kr/archives/55997)
 2. 미국 대학원/석박사 유학의 암울한 현실(https://ivyleague.me/2016/10/20/%EB%AF%B8%EA%B5%AD-%EB%8C%80%ED%95%99%EC%9B%90%EC%84%9D%EB%B0%95%EC%82%AC-%EC%9C%A0%ED%95%99%EC%9D%98-%EC%95%94%EC%9A%B8%ED%95%9C-%ED%98%84%EC%8B%A4/)
+3. Grad School Talk from CMU (https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
 
 ## GRE
@@ -21,6 +22,9 @@
 - Speaking
   - https://www.bestmytest.com/blog/toefl/new-toefl-speaking-topics-2018)
   - https://toeflspeakingteacher.com/toefl-speaking-topics/
+  
+
+
 
 ## Quantitative Phase Imaging Labs
 
@@ -246,8 +250,13 @@ Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-a
   - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
   - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
   - Computational Biology (http://www.compbio.cmu.edu/)
-
-
+  
+   - Pradeep Ravikumar (http://www.cs.cmu.edu/~pradeepr/)
+   - Ariel Procaccia (http://procaccia.info/)
+   - http://www.cs.cmu.edu/~bapoczos/
+   - Active Learning !!! (https://www.cs.cmu.edu/~ninamf/)
+   - http://zicokolter.com/
+   - ...
 
 
 - University of Michigan 
@@ -261,36 +270,35 @@ Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-a
 
 
 
+## SOP (Statement of Purpose)
 
-- Comp. bio & bioinformatics
+3.3 Personal statement
 
-  - CMU
-    - Sailing Lab (http://www.sailing.cs.cmu.edu/main/)
-    - Jaime Carbonell (https://www.cs.cmu.edu/~jgc/phd_students.html)
-    - Tom Mitchell (http://www.cs.cmu.edu/~tom/)
-    - Ameet Talwalkar (http://www.cs.cmu.edu/~atalwalk/)
-    
-  - UC Berkeley 
-    - http://www.jennifer.listgarten.com/
-    - https://people.eecs.berkeley.edu/~jordan/
- 
-- Artificial Intelligence 
+It’s misleading that the personal statement is called a “personal” statement, since
+what admission committees are really looking for is a research statement. What
+admission committees want is a statement about what research you have done, what
+research you hope to do, and why you like research.
 
-  - CMU
-    - Pradeep Ravikumar (http://www.cs.cmu.edu/~pradeepr/)
-    - Ariel Procaccia (http://procaccia.info/)
-    - http://www.cs.cmu.edu/~bapoczos/
-    - Active Learning !!! (https://www.cs.cmu.edu/~ninamf/)
-    - http://zicokolter.com/
-    - ...
-    
-  - UCLA
-    - Adnan Darwiche (http://reasoning.cs.ucla.edu/)
-    - Guy Van den Broeck (http://web.cs.ucla.edu/~guyvdb/starai-lab/)
-    - Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/index.html)
+Here’s a template if you need one:
 
+i. First paragraph – Describe the general areas of research that interest you and
+why. (This is helpful for a committee to determine which professors should
+read your application.)
 
+ii. Second paragraph, Third, and Fourth paragraphs – Describe some research
+projects that you worked on. What was the problem you were trying to
+solve? Why was it important? What approaches did you try? What did you
+learn? It’s fine to say that you were unable to fully solve your problem.
 
+iii. Fifth paragraph – Tell us why you feel you need a Ph.D.. Look back to
+section 2 and explain what in there appealed to you.
+
+iv. Sixth paragraph – Tell us why you want to come to CMU. Whom might you
+like to work with? What papers have you looked at from CMU that you
+enjoyed reading? Why is CMU the right place for you?
+It’s important to realize that the research statement is not a commitment to do
+research in that area. A third of all applicants end up working in an area different
+from that which they described on their research statement.
 
 
 - 장학금 
