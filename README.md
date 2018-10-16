@@ -203,6 +203,13 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
   - BioStats (https://www.biostat.ucla.edu/)
  
 
+## UCSB () 24th
+
+### Electrical & Computer Engineering
+
+  - [Christos Thrampoulidis Lab](https://www.ece.ucsb.edu/~cthrampo/index.html)
+ 
+
 <동부>
 
 ## 1st MIT (December 15, 2018)
