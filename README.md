@@ -180,7 +180,8 @@ One Single Program(https://grad.berkeley.edu/admissions/apply/)
   - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
   - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
   - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
-  - UCSD BioStatistics (https://apply.grad.ucsd.edu/departments/biostatistics)
+  
+  - Center for visual computing (http://jacobsschool.ucsd.edu/visualcomputing/)
   - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
   
 
