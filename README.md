@@ -22,7 +22,7 @@
   - https://www.bestmytest.com/blog/toefl/new-toefl-speaking-topics-2018)
   - https://toeflspeakingteacher.com/toefl-speaking-topics/
 
-- Quantitative Phase Imaging
+## Quantitative Phase Imaging Labs
 
   - UIUC ECE Gabriel Popescu (http://light.ece.illinois.edu/index.html/)
   - Berkeley EECS Laura Waller Lab (http://www.laurawaller.com/)
@@ -31,8 +31,7 @@
   - UCLA JALALI-LAB (http://www.photonics.ucla.edu/)
   - Washington Univ st.Louis (https://cigroup.wustl.edu/people/)
   - Demetri Psaltis EPFL (https://lo.epfl.ch/)
-
-
+  
 
 # University & Labs (sort by Univ.)
 
