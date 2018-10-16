@@ -27,7 +27,11 @@
 
 - Stanford Gordon Wetzstein Lab: http://www.computationalimaging.org/
 - Berkeley Laura Waller Lab: http://www.laurawaller.com/
-- 
+- Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
+- UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
+- USC: 
+- UCLA:
+- UCSD:
 
 
 ## Quantitative Phase Imaging Labs
