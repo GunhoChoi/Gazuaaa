@@ -23,7 +23,11 @@
   - https://www.bestmytest.com/blog/toefl/new-toefl-speaking-topics-2018)
   - https://toeflspeakingteacher.com/toefl-speaking-topics/
   
+# Application Choices
 
+- Stanford Gordon Wetzstein Lab: http://www.computationalimaging.org/
+- Berkeley Laura Waller Lab: http://www.laurawaller.com/
+- 
 
 
 ## Quantitative Phase Imaging Labs
