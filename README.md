@@ -29,7 +29,7 @@
   - Boston University Lei Tian Lab (http://sites.bu.edu/tianlab/)
   - MIT George Barbastathis (http://web.mit.edu/smart/research/biosym/dir_biosym%20-%20George.html)
   - UCLA JALALI-LAB (http://www.photonics.ucla.edu/)
-  - Washington Univ st.Louis (https://cigroup.wustl.edu/people/)
+  - Washington Univ st.Louis Ulugbek S. Kamilov (https://cigroup.wustl.edu/people/)
   - Demetri Psaltis EPFL (https://lo.epfl.ch/)
   
 
