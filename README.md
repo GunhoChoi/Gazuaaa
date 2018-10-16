@@ -165,6 +165,7 @@ One Single Program(https://grad.berkeley.edu/admissions/apply/)
   
   - [Optics & ML Group](https://sites.usc.edu/omlp/) but not much research..
   - [Neural Systems Engineering & Information Processing Lab](https://nseip.usc.edu/)
+  - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)
   
   
   ### [Industrial & Systems Engineering](https://ise.usc.edu/)
@@ -181,6 +182,7 @@ One Single Program(https://grad.berkeley.edu/admissions/apply/)
   - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
   - UCSD BioStatistics (https://apply.grad.ucsd.edu/departments/biostatistics)
   - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
+  
 
 ## 16th UCLA (Due: Dec/1/2018)
 
