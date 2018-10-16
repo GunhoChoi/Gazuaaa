@@ -43,7 +43,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 ## 1st Stanford (December 1, 2018) 
 
   ### [Programs](https://gradadmissions.stanford.edu/programs)
-
+  - Appliable only to a single program (https://gradadmissions.stanford.edu/applying/frequently-asked-questions)
 
   ### [Electrical Engineering](https://ee.stanford.edu/people/faculty) Dec 4th, 2018
   
@@ -91,6 +91,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   
 
 ## 2nd UC Berkeley 
+  - One Single Program(https://grad.berkeley.edu/admissions/apply/)
 
   ### EECS (Due: Dec/17/2018)
   - Laura Waller Lab (http://www.laurawaller.com/)
@@ -121,6 +122,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - Computation & Neural Systems (http://www.cns.caltech.edu/index.html)
 
 ## 10th USC (December 15, 2018)
+
+  - 3 programs possible (http://ask.usc.edu/app/answers/detail/a_id/335/~/i-am-considering-more-than-one-graduate-program-at-usc.-can-i-apply-to-multiple)
 
   ### [Academics](https://viterbischool.usc.edu/academics/)
 
@@ -157,6 +160,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 ## 12th UC San Diego (December 17, 2018)
 
+  - 1 program / department (https://grad.ucsd.edu/admissions/admission-faq/faq-general-application.html#Can-I-apply-to-more-than-one-pr)
+
   - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
   - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
   - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
@@ -164,6 +169,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
 
 ## 16th UCLA (Due: Dec/1/2018)
+
+  - Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
   ### PhD programs(https://www.cs.ucla.edu/graduate-program/)
 
