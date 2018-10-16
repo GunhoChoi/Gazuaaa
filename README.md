@@ -51,6 +51,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
   ### [Electrical Engineering](https://ee.stanford.edu/people/faculty) Dec 4th, 2018
   
+  - [Gordon Wetzstein Lab](http://www.computationalimaging.org/) WOW!!
+  
   #### [Physical Technology & Science](https://ee.stanford.edu/research/physical-technology-and-science)
   - [Hesselink Research Group](https://hesselink-lab.stanford.edu/)
   
