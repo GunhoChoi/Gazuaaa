@@ -43,7 +43,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 ## 1st Stanford (December 1, 2018) 
 
   ### [Programs](https://gradadmissions.stanford.edu/programs)
-  - Appliable only to a single program (https://gradadmissions.stanford.edu/applying/frequently-asked-questions)
+  
+  Appliable only to a single program (https://gradadmissions.stanford.edu/applying/frequently-asked-questions)
 
   ### [Electrical Engineering](https://ee.stanford.edu/people/faculty) Dec 4th, 2018
   
@@ -91,7 +92,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   
 
 ## 2nd UC Berkeley 
-  - One Single Program(https://grad.berkeley.edu/admissions/apply/)
+One Single Program(https://grad.berkeley.edu/admissions/apply/)
 
   ### EECS (Due: Dec/17/2018)
   - Laura Waller Lab (http://www.laurawaller.com/)
@@ -123,7 +124,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 ## 10th USC (December 15, 2018)
 
-  - 3 programs possible (http://ask.usc.edu/app/answers/detail/a_id/335/~/i-am-considering-more-than-one-graduate-program-at-usc.-can-i-apply-to-multiple)
+3 programs possible (http://ask.usc.edu/app/answers/detail/a_id/335/~/i-am-considering-more-than-one-graduate-program-at-usc.-can-i-apply-to-multiple)
 
   ### [Academics](https://viterbischool.usc.edu/academics/)
 
@@ -170,7 +171,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 ## 16th UCLA (Due: Dec/1/2018)
 
-  - Only 1 (https://grad.ucla.edu/admissions/faqs/)
+Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
   ### PhD programs(https://www.cs.ucla.edu/graduate-program/)
 
@@ -207,6 +208,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 ## 1st MIT (December 15, 2018)
 
+Multiple possible https://gradadmissions.mit.edu/applications/faq
+
   ### [EECS](http://www.eecs.mit.edu/research/34)
   
   - [ML & Statistics: Tamara Broderick](http://people.csail.mit.edu/tbroderick/index.html)
@@ -231,6 +234,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 
 ## 6th Carnegie Mellon (November 30th, 2018) 
+
+Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-asked.html)
 
   - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
   - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
