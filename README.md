@@ -192,6 +192,7 @@ https://apply.grad.ucsd.edu/
 
 ## 16th UCLA (Due: Dec/1/2018)
 
+https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/
 Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
   ### PhD programs(https://www.cs.ucla.edu/graduate-program/)
