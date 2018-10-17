@@ -55,6 +55,8 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
 
 ## 1st Stanford (December 1, 2018) 
 
+https://www.applyweb.com/stanford/index.ftl
+
   ### [Programs](https://gradadmissions.stanford.edu/programs)
   
   Appliable only to a single program (https://gradadmissions.stanford.edu/applying/frequently-asked-questions)
@@ -107,6 +109,7 @@ List from https://www.usnews.com/best-graduate-schools/search?program=top-engine
   
 
 ## 2nd UC Berkeley 
+https://gradapp.berkeley.edu/apply/
 One Single Program(https://grad.berkeley.edu/admissions/apply/)
 
   ### EECS (Due: Dec/17/2018)
@@ -130,6 +133,7 @@ One Single Program(https://grad.berkeley.edu/admissions/apply/)
   
   
 ## 4th Caltech (Dec 1, 2018)
+https://www.applyweb.com/caltgapp/index.ftl
 
   - 동훈님이 있었던  (http://www.biophot.caltech.edu/people/index.html)
   - Computing + Mathematica Science (http://www.cms.caltech.edu/)
@@ -139,6 +143,7 @@ One Single Program(https://grad.berkeley.edu/admissions/apply/)
   - Computation & Neural Systems (http://www.cns.caltech.edu/index.html)
 
 ## 10th USC (December 15, 2018)
+https://usc.liaisoncas.com/applicant-ux/#/login
 
 3 programs possible (http://ask.usc.edu/app/answers/detail/a_id/335/~/i-am-considering-more-than-one-graduate-program-at-usc.-can-i-apply-to-multiple)
 
@@ -193,6 +198,7 @@ https://apply.grad.ucsd.edu/
 ## 16th UCLA (Due: Dec/1/2018)
 
 https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/
+
 Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
   ### PhD programs(https://www.cs.ucla.edu/graduate-program/)
