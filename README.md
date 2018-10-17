@@ -178,6 +178,8 @@ One Single Program(https://grad.berkeley.edu/admissions/apply/)
 
 ## 12th UC San Diego (December 17, 2018)
 
+https://apply.grad.ucsd.edu/
+
   - 1 program / department (https://grad.ucsd.edu/admissions/admission-faq/faq-general-application.html#Can-I-apply-to-more-than-one-pr)
 
   - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
@@ -261,9 +263,9 @@ Multiple possible https://gradadmissions.mit.edu/applications/faq
 
 ## 6th Carnegie Mellon (November 30th, 2018) 
 
-Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-asked.html)
-
 https://applygrad.cs.cmu.edu/apply/home.php
+
+Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-asked.html)
 
   - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
   - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
