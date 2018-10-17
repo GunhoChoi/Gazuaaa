@@ -263,6 +263,8 @@ Multiple possible https://gradadmissions.mit.edu/applications/faq
 
 Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-asked.html)
 
+https://applygrad.cs.cmu.edu/apply/home.php
+
   - CMU CS(https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
   - PhD in CS(https://www.csd.cs.cmu.edu/academics/doctoral/requirements-overview)
   - Computational Biology (http://www.compbio.cmu.edu/)
