@@ -27,9 +27,9 @@
 
 - Stanford Gordon Wetzstein Lab: http://www.computationalimaging.org/
 - Berkeley Laura Waller Lab: http://www.laurawaller.com/
-- Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
+- 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
 - UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
-- Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
+- 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
 
 - USC: 
 - UCLA:
@@ -237,6 +237,15 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
   - [Christos Thrampoulidis Lab](https://www.ece.ucsb.edu/~cthrampo/index.html)
  
+## University of Washington 
+
+### [Computer Science](https://www.cs.washington.edu/research)
+
+- [Explainable Machine Learning for Biology & Precision Medicine](https://suinlee.cs.washington.edu/people)
+
+### [EE](http://www.ee.washington.edu/)
+
+
 
 <동부>
 
