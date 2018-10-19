@@ -186,12 +186,27 @@ https://apply.grad.ucsd.edu/
 
   - 1 program / department (https://grad.ucsd.edu/admissions/admission-faq/faq-general-application.html#Can-I-apply-to-more-than-one-pr)
 
-  - CS & Engineering (https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-engineering-cs76)
-  - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
-  - Signal & Image Processing (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
+### [CS department AI group](http://ai.ucsd.edu/#pubs)
+  
+  - [Active Learning](http://cseweb.ucsd.edu/~kamalika/index.html)
+  - [Recommendation](https://cseweb.ucsd.edu/~jmcauley/) 
+  - [Health Care Robotics Lab](http://healthrobotics.ucsd.edu/)
+  - [2D,3D understanding](http://cseweb.ucsd.edu/~haosu/#rs)
+  - [Computational & Cognitive Neuroscience Lab](http://www.cogsci.ucsd.edu/~ajyu/)
+  
+
+  
+  
+### [EE Deparment](http://www.ece.ucsd.edu/)
+
+- 
+  
+  
+### [Signal & Image Processing](https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
+  
   
   - Center for visual computing (http://jacobsschool.ucsd.edu/visualcomputing/)
-  - Hao su Lab (http://cseweb.ucsd.edu/~haosu/#rs)
+  - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
   
 
 ## 16th UCLA (Due: Dec/1/2018)
