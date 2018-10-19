@@ -25,15 +25,18 @@
   
 # Application Choices
 
-- Stanford Gordon Wetzstein Lab: http://www.computationalimaging.org/
-- Berkeley Laura Waller Lab: http://www.laurawaller.com/
+- 1st Stanford
+- 2nd Berkeley Laura Waller Lab: http://www.laurawaller.com/
+- 4th Caltech:
+- 10th USC: 
+- 12th UCSD:
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
-- UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
+- 24th UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
 - 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
 
-- USC: 
+
 - UCLA:
-- UCSD:
+
 
 
 ## Quantitative Phase Imaging Labs
@@ -194,17 +197,10 @@ https://apply.grad.ucsd.edu/
   - [2D,3D understanding](http://cseweb.ucsd.edu/~haosu/#rs)
   - [Computational & Cognitive Neuroscience Lab](http://www.cogsci.ucsd.edu/~ajyu/)
   
-
-  
   
 ### [EE Deparment](http://www.ece.ucsd.edu/)
 
-- 
-  
-  
-### [Signal & Image Processing](https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#signal-and-image-processing-ec82)
-  
-  
+  - [Photonic System](http://psilab.ucsd.edu/research.html)
   - Center for visual computing (http://jacobsschool.ucsd.edu/visualcomputing/)
   - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
   
