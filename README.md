@@ -65,6 +65,7 @@ https://www.applyweb.com/stanford/index.ftl
 
   ### [Electrical Engineering](https://ee.stanford.edu/people/faculty) Dec 4th, 2018
   
+  - [Stephen Byod](https://web.stanford.edu/~boyd/index.html)
   - [Gordon Wetzstein Lab](http://www.computationalimaging.org/) WOW!!
   
   #### [Physical Technology & Science](https://ee.stanford.edu/research/physical-technology-and-science)
