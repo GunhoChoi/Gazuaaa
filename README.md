@@ -30,12 +30,11 @@
 - 4th Caltech:
 - 10th USC: 
 - 12th UCSD:
-- 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
+- 16th UCLA:
 - 24th UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
+- 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
 - 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
 
-
-- UCLA:
 
 
 
