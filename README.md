@@ -166,7 +166,6 @@ https://usc.liaisoncas.com/applicant-ux/#/login
   - [SCUBA Signal Processing for Communication Understanding and Behavior Analysis Laboratory](http://scuba.usc.edu/)
   - [SAIL ](https://sail.usc.edu/)
   - [Optics & ML Group](https://sites.usc.edu/omlp/) but not much research..
-  - [Neural Systems Engineering & Information Processing Lab](https://nseip.usc.edu/)
   - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)
   
 
