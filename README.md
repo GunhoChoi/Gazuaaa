@@ -63,17 +63,13 @@ https://www.applyweb.com/stanford/index.ftl
   
   Appliable only to a single program (https://gradadmissions.stanford.edu/applying/frequently-asked-questions)
 
-  ### [Electrical Engineering](https://ee.stanford.edu/people/faculty) Dec 4th, 2018
+  ### [<Electrical Engineering\>](https://ee.stanford.edu/people/faculty) Dec 4th, 2018
   
   - [Stephen Byod](https://web.stanford.edu/~boyd/index.html)
   - [Gordon Wetzstein Lab](http://www.computationalimaging.org/) WOW!!
-  
-  #### [Physical Technology & Science](https://ee.stanford.edu/research/physical-technology-and-science)
   - [Hesselink Research Group](https://hesselink-lab.stanford.edu/)
-  
-  #### [Information Systems & Science](https://ee.stanford.edu/research/information-systems-and-science)
     
-  ### [Computer Science](https://cs.stanford.edu/research)
+  ### [<Computer Science\>](https://cs.stanford.edu/research)
   
   #### [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
   
@@ -115,7 +111,7 @@ https://www.applyweb.com/stanford/index.ftl
 https://gradapp.berkeley.edu/apply/
 One Single Program(https://grad.berkeley.edu/admissions/apply/)
 
-  ### EECS (Due: Dec/17/2018)
+  ### <EECS\> (Due: Dec/17/2018)
   - Laura Waller Lab (http://www.laurawaller.com/)
   - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
   - CycleGAN Lab (https://people.eecs.berkeley.edu/~efros/?_ga=2.124479817.2109654356.1538755889-1969420073.1536049811, https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
@@ -152,7 +148,7 @@ https://usc.liaisoncas.com/applicant-ux/#/login
 
   ### [Academics](https://viterbischool.usc.edu/academics/)
 
-  ### [CS](https://www.cs.usc.edu/research/research-areas-labs/)
+  ### [<CS\>](https://www.cs.usc.edu/research/research-areas-labs/)
   
   - [Data Science Lab](http://dslab.usc.edu/index.php)
   - [Statistical Machine Learning Lab](http://www-bcf.usc.edu/~feisha/projects.html)
@@ -164,7 +160,7 @@ https://usc.liaisoncas.com/applicant-ux/#/login
   - [Automatic Coordination of Teams](http://www-bcf.usc.edu/~ayanian/research.html) 로봇쪽
   
     
-  ### [Signal & Image Processing](https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
+  ### [<Signal & Image Processing\>](https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
   
   - [SCUBA Signal Processing for Communication Understanding and Behavior Analysis Laboratory](http://scuba.usc.edu/)
   - [SAIL ](https://sail.usc.edu/)
@@ -172,7 +168,7 @@ https://usc.liaisoncas.com/applicant-ux/#/login
   - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)
   
 
-  ### [Biomedical Engineering](https://bme.usc.edu/research/#departmentlabs)
+  ### [<Biomedical Engineering\>](https://bme.usc.edu/research/#departmentlabs)
   
   - [Center for Vision Science and Technology](https://cvst.usc.edu/)
   - [Translational Imaging Center](http://bioimaging.usc.edu/index.html)
@@ -189,7 +185,7 @@ https://apply.grad.ucsd.edu/
 
   - 1 program / department (https://grad.ucsd.edu/admissions/admission-faq/faq-general-application.html#Can-I-apply-to-more-than-one-pr)
 
-### [CS department AI group](http://ai.ucsd.edu/#pubs)
+### [<CS department AI group\>](http://ai.ucsd.edu/#pubs)
   
   - [Active Learning](http://cseweb.ucsd.edu/~kamalika/index.html)
   - [Recommendation](https://cseweb.ucsd.edu/~jmcauley/) 
@@ -198,7 +194,7 @@ https://apply.grad.ucsd.edu/
   - [Computational & Cognitive Neuroscience Lab](http://www.cogsci.ucsd.edu/~ajyu/)
   
   
-### [EE Deparment](http://www.ece.ucsd.edu/)
+### [<EE Deparment\>](http://www.ece.ucsd.edu/)
 
   - [Photonic System](http://psilab.ucsd.edu/research.html)
   - Center for visual computing (http://jacobsschool.ucsd.edu/visualcomputing/)
@@ -215,14 +211,14 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
   ### [Samueli Engineering](https://samueli.ucla.edu/)
   
-  ### [CS labs](https://www.cs.ucla.edu/research-labs/)
+  ### [<CS labs\>](https://www.cs.ucla.edu/research-labs/)
   
   - Center for Vision, Cognition, Learning, and Autonomy (http://vcla.stat.ucla.edu/)
   - eHealth Research Lab (http://er.cs.ucla.edu/)
   - Computer Graphics & Vision Laboratory (http://web.cs.ucla.edu/magix/)
   - Statistical and Relational Artificial Intelligence (http://web.cs.ucla.edu/~guyvdb/starai-lab/)
 
-  ### [EE Labs](https://www.ee.ucla.edu)
+  ### [<EE Labs\>](https://www.ee.ucla.edu)
 
   - [Ozcan Lab](http://innovate.ee.ucla.edu/welcome.html)
   - [Jalali Lab](http://www.photonics.ucla.edu/)
@@ -244,17 +240,17 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
 ## UCSB (December 17, 2018) 24th
 
-### Electrical & Computer Engineering
+### <Electrical & Computer Engineering\>
 
   - [Christos Thrampoulidis Lab](https://www.ece.ucsb.edu/~cthrampo/index.html)
  
 ## University of Washington 
 
-### [Computer Science](https://www.cs.washington.edu/research)
+### [<Computer Science\>](https://www.cs.washington.edu/research)
 
 - [Explainable Machine Learning for Biology & Precision Medicine](https://suinlee.cs.washington.edu/people)
 
-### [EE](http://www.ee.washington.edu/)
+### [<EE\>](http://www.ee.washington.edu/)
 
 
 
@@ -265,7 +261,7 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
 Multiple possible https://gradadmissions.mit.edu/applications/faq
 http://gradadmissions.mit.edu/programs
 
-  ### [EECS](http://www.eecs.mit.edu/research/34)
+  ### [<EECS\>](http://www.eecs.mit.edu/research/34)
   
   - [ML & Statistics: Tamara Broderick](http://people.csail.mit.edu/tbroderick/index.html)
   - [Information theory, statistics, applied probability: Guy Bresler](http://www.mit.edu/~gbresler/)
