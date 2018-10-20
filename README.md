@@ -253,7 +253,6 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
 ### [<EE\>](http://www.ee.washington.edu/)
 
 
-
 <동부>
 
 ## 1st MIT (December 15, 2018)
