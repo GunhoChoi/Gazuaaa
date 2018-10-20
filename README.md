@@ -285,21 +285,19 @@ http://gradadmissions.mit.edu/programs
   - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
 
 
-## 4th UIUC 
+## 4th Univ. of Michigan
 
-Multi Possible
+[EECS](http://eecs.umich.edu/)
+ 
+### [AI](http://www.eecs.umich.edu/eecs/research/area.html?areaname=artificial-intelligence)
 
-### [<CS/>](https://cs.illinois.edu/) December 15th
+### [EECS]
 
-- [Secure ML](http://www.crystal-boli.com/home.html)
-- [General ML](http://sanmi.cs.illinois.edu/index.htm)
-- [Audio](http://paris.cs.illinois.edu/)
+- [Signal Processing Algorithm Design and Analysis](http://web.eecs.umich.edu/~girasole/?page_id=534)
+- [human activity, Video](http://web.eecs.umich.edu/~jjcorso//r/index.html)
+- [Fesseler](https://www.eecs.umich.edu/eecs/faculty/eecsfaculty.html?uniqname=fessler)
+- [Bioplasmonic Group](http://bioplasmonics.org/home.html)
 
-
-### [<EE/>](https://ece.illinois.edu/)
-
-- [Intelligent Optics Lab](http://iopticslab.ece.illinois.edu/publications/)
-- [UIUC ECE Gabriel Popescu](http://light.ece.illinois.edu/index.html/)
 
 
 ## 6th Carnegie Mellon (November 30th, 2018) 
@@ -318,6 +316,26 @@ Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-a
    - Active Learning !!! (https://www.cs.cmu.edu/~ninamf/)
    - http://zicokolter.com/
    - ...
+
+
+
+## 9th UIUC 
+
+Multi Possible
+
+### [<CS/>](https://cs.illinois.edu/) December 15th
+
+- [Secure ML](http://www.crystal-boli.com/home.html)
+- [General ML](http://sanmi.cs.illinois.edu/index.htm)
+- [Audio](http://paris.cs.illinois.edu/)
+
+
+### [<EE/>](https://ece.illinois.edu/)
+
+- [Intelligent Optics Lab](http://iopticslab.ece.illinois.edu/publications/)
+- [UIUC ECE Gabriel Popescu](http://light.ece.illinois.edu/index.html/)
+
+
 
 
 
