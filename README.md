@@ -185,6 +185,8 @@ https://apply.grad.ucsd.edu/
 
   - 1 program / department (https://grad.ucsd.edu/admissions/admission-faq/faq-general-application.html#Can-I-apply-to-more-than-one-pr)
 
+### [CS](https://cse.ucsd.edu/)
+
 ### [<CS department AI group\>](http://ai.ucsd.edu/#pubs)
   
   - [Active Learning](http://cseweb.ucsd.edu/~kamalika/index.html)
