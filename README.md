@@ -285,6 +285,23 @@ http://gradadmissions.mit.edu/programs
   - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
 
 
+## 4th UIUC 
+
+Multi Possible
+
+### [<CS/>](https://cs.illinois.edu/) December 15th
+
+- [Secure ML](http://www.crystal-boli.com/home.html)
+- [General ML](http://sanmi.cs.illinois.edu/index.htm)
+- [Audio](http://paris.cs.illinois.edu/)
+
+
+### [<EE/>](https://ece.illinois.edu/)
+
+- [Intelligent Optics Lab](http://iopticslab.ece.illinois.edu/publications/)
+- [UIUC ECE Gabriel Popescu](http://light.ece.illinois.edu/index.html/)
+
+
 ## 6th Carnegie Mellon (November 30th, 2018) 
 
 https://applygrad.cs.cmu.edu/apply/home.php
@@ -303,7 +320,6 @@ Multiple programs possible (https://www.cmu.edu/graduate/admissions/frequently-a
    - ...
 
 
-- University of Michigan 
 
 - Georgia Institute of Technology 
 
