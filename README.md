@@ -199,8 +199,11 @@ https://apply.grad.ucsd.edu/
 ### [<EE Deparment\>](http://www.ece.ucsd.edu/)
 
   - [Photonic System](http://psilab.ucsd.edu/research.html)
-  - Center for visual computing (http://jacobsschool.ucsd.edu/visualcomputing/)
-  - ML & Datascience (https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
+  - [Center for visualcomputing](http://jacobsschool.ucsd.edu/visualcomputing/)
+  - [ML & Datascience](https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)
+  - [Translational Neuroengineering](http://neuro.eng.ucsd.edu/research)
+  - [Piya-pal Lab](https://sites.google.com/a/eng.ucsd.edu/piya-pal/research)
+  - [Sparse Signal Recovery](http://dsp.ucsd.edu/home/?page_id=4)
   
 
 ## 16th UCLA (Due: Dec/1/2018)
