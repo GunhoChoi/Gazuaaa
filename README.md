@@ -26,7 +26,7 @@
 # Application Choices
 
 - 1st Stanford
-- 2nd Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
+## - 2nd Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
 - 4th Caltech:
 - 10th USC: 
 - 12th UCSD:
