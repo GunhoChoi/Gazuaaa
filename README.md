@@ -25,8 +25,8 @@
   
 # Application Choices
 
-- 1st Stanford
-## - 2nd Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
+- 1st Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
+- 2nd Stanford: 
 - 4th Caltech:
 - 10th USC: 
 - 12th UCSD:
@@ -69,7 +69,6 @@ https://www.applyweb.com/stanford/index.ftl
   - [Gordon Wetzstein Lab](http://www.computationalimaging.org/) WOW!!
   - [Hesselink Research Group](https://hesselink-lab.stanford.edu/)
   - [MRI Lab](https://sites.stanford.edu/mrsrl/)
-  
     
   ### [<Computer Science\>](https://cs.stanford.edu/research)
   
