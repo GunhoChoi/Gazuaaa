@@ -68,6 +68,8 @@ https://www.applyweb.com/stanford/index.ftl
   - [Stephen Byod](https://web.stanford.edu/~boyd/index.html)
   - [Gordon Wetzstein Lab](http://www.computationalimaging.org/) WOW!!
   - [Hesselink Research Group](https://hesselink-lab.stanford.edu/)
+  - [MRI Lab](https://sites.stanford.edu/mrsrl/)
+  
     
   ### [<Computer Science\>](https://cs.stanford.edu/research)
   
@@ -78,10 +80,8 @@ https://www.applyweb.com/stanford/index.ftl
   - [Fei Fei Li Lab](http://vision.stanford.edu/index.htm)
   - [Computer vision & Geometry Lab](http://cvgl.stanford.edu/index.html)
   - [AI for healthcare, AI for people-prediction, and smart-homes](http://robots.stanford.edu/index.html) 사업도 하심
-  
   - [Dror Lab ML & Microscopy](http://drorlab.stanford.edu/)
     
- 
   #### [InfoLab](https://cs.stanford.edu/research/infolab)
   
   - [Graph Convolution](https://engineering.stanford.edu/people/jure-leskovec)
@@ -100,10 +100,7 @@ https://www.applyweb.com/stanford/index.ftl
   
   - GRE Math 를 봐야함 이미 늦음  
   - http://ai.stanford.edu/~tengyuma/
-  
-  ### [Management Science and Engineering](https://msande.stanford.edu/research/research-areas/research-areas)
-    
-     
+      
   - Neuro AI LAB(http://neuroailab.stanford.edu/people.html)
   
 
@@ -111,14 +108,19 @@ https://www.applyweb.com/stanford/index.ftl
 https://gradapp.berkeley.edu/apply/
 One Single Program(https://grad.berkeley.edu/admissions/apply/)
 
-  ### <EECS\> (Due: Dec/17/2018)
-  - Laura Waller Lab (http://www.laurawaller.com/)
-  - Listgarten Lab where Ryan went (http://www.jennifer.listgarten.com/#students)
-  - CycleGAN Lab (https://people.eecs.berkeley.edu/~efros/?_ga=2.124479817.2109654356.1538755889-1969420073.1536049811, https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
-  - Rise Lab (https://rise.cs.berkeley.edu/)
-  - Gireeja Ranade (https://people.eecs.berkeley.edu/~gireeja/?_ga=2.84282585.1322148379.1536049811-1969420073.1536049811#)
-  - Stuart Russell (https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html)
-  - Dawn Song (https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.22200696.2109654356.1538755889-1969420073.1536049811)
+  ### [<EECS\>](https://www2.eecs.berkeley.edu) (Due: Dec/17/2018)
+  
+  - [Laura Waller Lab](http://www.laurawaller.com/)
+  - [Ren Ng Single Image Reflection Separation](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html)
+  - [Jonathan Ragan-Kelley](https://people.eecs.berkeley.edu/~jrk/)
+  - [MRI Compressive Sensing Lab](https://people.eecs.berkeley.edu/~mlustig/index.html)
+  
+  - [Listgarten Lab where Ryan went](http://www.jennifer.listgarten.com/#students)
+  - [CycleGAN Lab](https://people.eecs.berkeley.edu/~efros/?_ga=2.124479817.2109654356.1538755889-1969420073.1536049811, https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html)
+  - [Rise Lab](https://rise.cs.berkeley.edu/)
+  - [Gireeja Ranade](https://people.eecs.berkeley.edu/~gireeja/?_ga=2.84282585.1322148379.1536049811-1969420073.1536049811#)
+  - [Stuart Russell](https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html)
+  - [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.22200696.2109654356.1538755889-1969420073.1536049811)
   
   ### Due: Nov/30/2018
   - Comp. Bio (http://ccb.berkeley.edu/academics/phd-in-computational-biology/)
