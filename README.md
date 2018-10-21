@@ -242,9 +242,14 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
 ## UCSB (December 17, 2018) 24th
 
+### [<CS\>](http://www.cs.ucsb.edu/research)
+
+
+
 ### <Electrical & Computer Engineering\>
 
   - [Christos Thrampoulidis Lab](https://www.ece.ucsb.edu/~cthrampo/index.html)
+  - [MIRAGE Lab](https://www.ece.ucsb.edu/~psen/)
  
 ## University of Washington 
 
