@@ -152,33 +152,27 @@ https://usc.liaisoncas.com/applicant-ux/#/login
 
   ### [<CS\>](https://www.cs.usc.edu/research/research-areas-labs/)
   
+  - [Computer Vision Lab](http://www-bcf.usc.edu/~nevatia/index.html)
+  - [Computer Graphics and Immersive Technologies](https://graphics.usc.edu/cgit/index.php)
+  - [Hao Li Geometric Capture Group](http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
+  - [Vision & Graphics Lab](http://vgl.ict.usc.edu/)
+  
   - [Data Science Lab](http://dslab.usc.edu/index.php)
   - [Statistical Machine Learning Lab](http://www-bcf.usc.edu/~feisha/projects.html)
   - [Intelligence and Knowledge Discovery](http://inklab.usc.edu/index.html)
   - [InfoLab](https://infolab.usc.edu/people.php)
   - [ML & Data mining](http://www-bcf.usc.edu/~liu32/melady.html)
-  - [Hao Li Geometric Capture Group](http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
-  - [Vision & Graphics Lab](http://vgl.ict.usc.edu/)
+  
   - [Automatic Coordination of Teams](http://www-bcf.usc.edu/~ayanian/research.html) 로봇쪽
   
     
   ### [<Signal & Image Processing\>](https://minghsiehee.usc.edu/research/area/signal-and-image-processing/)
   
   - [SCUBA Signal Processing for Communication Understanding and Behavior Analysis Laboratory](http://scuba.usc.edu/)
-  - [SAIL ](https://sail.usc.edu/)
+  - [SAIL](https://sail.usc.edu/)
   - [Optics & ML Group](https://sites.usc.edu/omlp/) but not much research..
   - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)
   
-
-  ### [<Biomedical Engineering\>](https://bme.usc.edu/research/#departmentlabs)
-  
-  - [Center for Vision Science and Technology](https://cvst.usc.edu/)
-  - [Translational Imaging Center](http://bioimaging.usc.edu/index.html)
- 
- 
-  ### [Industrial & Systems Engineering](https://ise.usc.edu/)
-  
-  - ?
   
 
 ## 12th UC San Diego (December 17, 2018)
