@@ -26,11 +26,11 @@
 # Application Choices
 
 - 1st Stanford
-- 2nd Berkeley Laura Waller Lab: http://www.laurawaller.com/
+- 2nd Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
 - 4th Caltech:
 - 10th USC: 
 - 12th UCSD:
-- 16th UCLA:
+- 16th UCLA: Jalali / Ozcan 
 - 24th UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
 - 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
