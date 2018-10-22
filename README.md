@@ -154,7 +154,7 @@ https://usc.liaisoncas.com/applicant-ux/#/login
   ### [<CS\>](https://www.cs.usc.edu/research/research-areas-labs/)
   
   - [Computer Vision Lab](http://www-bcf.usc.edu/~nevatia/index.html)
-  - [Computer Graphics and Immersive Technologies](https://graphics.usc.edu/cgit/index.php)
+  - [*Computer Graphics and Immersive Technologies](https://graphics.usc.edu/cgit/index.php)
   - [Hao Li Geometric Capture Group](http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
   - [Vision & Graphics Lab](http://vgl.ict.usc.edu/)
   
@@ -173,7 +173,9 @@ https://usc.liaisoncas.com/applicant-ux/#/login
   - [SAIL](https://sail.usc.edu/)
   - [Optics & ML Group](https://sites.usc.edu/omlp/) but not much research..
   - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)
-  
+  - [MRI research Group](http://mr.usc.edu/)
+  - [MR Engineering](https://mrel.usc.edu/)
+   
   
 
 ## 12th UC San Diego (December 17, 2018)
