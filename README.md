@@ -26,16 +26,14 @@
 # Application Choices
 
 - 1st Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
-- 2nd Stanford: 
-- 4th Caltech:
+- 2nd Stanford: 가고싶은건 EE
+- 4th Caltech: 이론적인 연구가 주인듯 
 - 10th USC: 
 - 12th UCSD:
 - 16th UCLA: Jalali / Ozcan 
 - 24th UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
 - 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
-
-
 
 
 ## Quantitative Phase Imaging Labs
