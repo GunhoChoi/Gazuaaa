@@ -175,6 +175,7 @@ https://usc.liaisoncas.com/applicant-ux/#/login
   - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)
   - [MRI research Group](http://mr.usc.edu/)
   - [MR Engineering](https://mrel.usc.edu/)
+  - [Media Lab](http://mcl.usc.edu/)
    
   
 
