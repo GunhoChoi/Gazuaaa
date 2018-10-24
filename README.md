@@ -29,8 +29,8 @@
 - 2nd Stanford: 가고싶은건 EE
 - 4th Caltech: 이론적인 연구가 주인듯 
 - 10th USC: 
-- 12th UCSD:
-- 16th UCLA: Jalali / Ozcan 
+- 12th UCSD: Manmohan Chandraker (3D Reconstruction) 
+- 16th UCLA: Jalali / Ozcan  (Optics+DL)
 - 24th UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
 - 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
@@ -190,10 +190,12 @@ https://apply.grad.ucsd.edu/
 ### [<CS department AI group\>](http://ai.ucsd.edu/#pubs)
   
   - [Active Learning](http://cseweb.ucsd.edu/~kamalika/index.html)
+  - [2D,3D understanding](http://cseweb.ucsd.edu/~haosu/#rs)
+  - [Center for Visual Computing](http://cseweb.ucsd.edu/~ravir/)
+  - [3D Reconstruction](https://cseweb.ucsd.edu/~mkchandraker/index.html)
+  - [Computational & Cognitive Neuroscience Lab](http://www.cogsci.ucsd.edu/~ajyu/)
   - [Recommendation](https://cseweb.ucsd.edu/~jmcauley/) 
   - [Health Care Robotics Lab](http://healthrobotics.ucsd.edu/)
-  - [2D,3D understanding](http://cseweb.ucsd.edu/~haosu/#rs)
-  - [Computational & Cognitive Neuroscience Lab](http://www.cogsci.ucsd.edu/~ajyu/)
   
   
 ### [<EE Deparment\>](http://www.ece.ucsd.edu/)
