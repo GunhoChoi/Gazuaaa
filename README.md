@@ -29,7 +29,7 @@
 - 2nd Stanford: 가고싶은건 EE
 - 4th Caltech: 이론적인 연구가 주인듯 
 - 10th USC: [Point Cloud & 3D Computer Graphics and Immersive Technologies](https://graphics.usc.edu/cgit/index.php)
-- 12th UCSD: [Manmohan Chandraker 3D Reconstruction]https://cseweb.ucsd.edu/~mkchandraker/index.html [Center for Visual Computing](http://cseweb.ucsd.edu/~ravir/)
+- 12th UCSD: [Manmohan Chandraker 3D Reconstruction](https://cseweb.ucsd.edu/~mkchandraker/index.html), [Center for Visual Computing](http://cseweb.ucsd.edu/~ravir/)
 - 16th UCLA: Jalali / Ozcan  (Optics+DL)
 
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
