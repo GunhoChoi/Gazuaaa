@@ -31,7 +31,7 @@
 - 10th USC: 
 - 12th UCSD: Manmohan Chandraker (3D Reconstruction) 
 - 16th UCLA: Jalali / Ozcan  (Optics+DL)
-- 24th UCSB: Christos Thrampoulidis Lab: https://www.ece.ucsb.edu/~cthrampo/index.html
+
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
 - 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
 
