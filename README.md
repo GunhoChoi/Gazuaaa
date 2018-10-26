@@ -24,6 +24,12 @@
   - https://www.bestmytest.com/blog/toefl/new-toefl-speaking-topics-2018)
   - https://toeflspeakingteacher.com/toefl-speaking-topics/
   
+  
+## SOP & LOR
+
+- [Statement of Purpose](https://www.youtube.com/watch?v=vdcSjCCNfhc)
+- [Letter of Recommendation](https://www.youtube.com/watch?v=qo14IwEEPhg)
+  
 # Application Choices
 
 - 1st Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
