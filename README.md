@@ -32,9 +32,7 @@
 - 10th USC: [Point Cloud & 3D Computer Graphics and Immersive Technologies](https://graphics.usc.edu/cgit/index.php)
 - 12th UCSD: [Manmohan Chandraker 3D Reconstruction](https://cseweb.ucsd.edu/~mkchandraker/index.html), [Center for Visual Computing](http://cseweb.ucsd.edu/~ravir/)
 - 16th UCLA: Jalali / Ozcan  (Optics+DL)
-
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
-- 50th Washington Univ st.Louis Ulugbek S. Kamilov: https://cigroup.wustl.edu/people/
 
 
 ## Quantitative Phase Imaging Labs
