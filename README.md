@@ -37,7 +37,7 @@
 - 4th Caltech: 이론적인 연구가 주인듯 
 - 10th USC: [Point Cloud & 3D Computer Graphics](https://graphics.usc.edu/cgit/index.php), [Institute for Creative Technologies & Graphics](http://vgl.ict.usc.edu/)
 - 12th UCSD: [Manmohan Chandraker 3D Reconstruction](https://cseweb.ucsd.edu/~mkchandraker/index.html), [Center for Visual Computing](http://cseweb.ucsd.edu/~ravir/)
-- 16th UCLA: Jalali / Ozcan  (Optics+DL)
+- 16th UCLA: [Visual Machines Group](https://visual.ee.ucla.edu/index.htm)
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
 
 
@@ -231,6 +231,7 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
   - [Neural Computation and Engineering lab](http://seas.ucla.edu/~kao/)
   - [Wireless Health lab](http://www.seas.ucla.edu/~pottie/index.html)
   - [AI & AI for medicine lab](http://medianetlab.ee.ucla.edu/NewWebsite/index.html)
+  - [Visual Machines Group](https://visual.ee.ucla.edu/index.htm)
   
   ### [Bio Engineering](https://www.bioeng.ucla.edu/research-a)
   
@@ -242,25 +243,6 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
   - BioMathematics (https://www.biomath.ucla.edu)
   - BioStats (https://www.biostat.ucla.edu/)
  
-
-## UCSB (December 17, 2018) 24th
-
-### [<CS\>](http://www.cs.ucsb.edu/research)
-
-
-
-### <Electrical & Computer Engineering\>
-
-  - [Christos Thrampoulidis Lab](https://www.ece.ucsb.edu/~cthrampo/index.html)
-  - [MIRAGE Lab](https://www.ece.ucsb.edu/~psen/)
- 
-## University of Washington 
-
-### [<Computer Science\>](https://www.cs.washington.edu/research)
-
-- [Explainable Machine Learning for Biology & Precision Medicine](https://suinlee.cs.washington.edu/people)
-
-### [<EE\>](http://www.ee.washington.edu/)
 
 
 <동부>
