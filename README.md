@@ -91,19 +91,7 @@ https://www.applyweb.com/stanford/index.ftl
   #### [HCI](https://cs.stanford.edu/research/hci)
   
   - [How to make a good team?](https://hci.stanford.edu/msb/)
-    
-  ### [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/) Dec 4th, 2018
-  
-  - [Research Overview](https://icme.stanford.edu/research/overview)
-  
-  Recommended background: strong foundation in mathematics with courses in linear algebra, numerical methods, probabilities, stochastics, and programming proficiency in C++ and MATLAB.
 
-  ### [Statistics](https://statistics.stanford.edu/)  December 4, 2018
-  
-  - GRE Math 를 봐야함 이미 늦음  
-  - http://ai.stanford.edu/~tengyuma/
-      
-  - Neuro AI LAB(http://neuroailab.stanford.edu/people.html)
   
 
 ## 2nd UC Berkeley 
