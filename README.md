@@ -35,7 +35,7 @@
 - 1st Berkeley: Laura Waller Lab / http://www.comp-imaging.berkeley.edu/
 - 2nd Stanford: [Gordon Wetzstein Lab](http://www.computationalimaging.org/)
 - 4th Caltech: 이론적인 연구가 주인듯 
-- 10th USC: [Point Cloud & 3D Computer Graphics and Immersive Technologies](https://graphics.usc.edu/cgit/index.php)
+- 10th USC: [Point Cloud & 3D Computer Graphics](https://graphics.usc.edu/cgit/index.php), [Institute for Creative Technologies & Graphics](http://vgl.ict.usc.edu/)
 - 12th UCSD: [Manmohan Chandraker 3D Reconstruction](https://cseweb.ucsd.edu/~mkchandraker/index.html), [Center for Visual Computing](http://cseweb.ucsd.edu/~ravir/)
 - 16th UCLA: Jalali / Ozcan  (Optics+DL)
 - 35th Boston Lei Tian Lab: http://sites.bu.edu/tianlab/
