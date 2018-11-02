@@ -284,26 +284,21 @@ http://gradadmissions.mit.edu/programs
 
   ### [<EECS\>](http://www.eecs.mit.edu/research/34)
   
-  - [ML & Statistics: Tamara Broderick](http://people.csail.mit.edu/tbroderick/index.html)
-  - [Information theory, statistics, applied probability: Guy Bresler](http://www.mit.edu/~gbresler/)
-  - [Vision & 3D](https://www.csail.mit.edu/person/william-freeman#projects)
-  - [General AI ?](http://people.csail.mit.edu/tommi/tommi.html)
-  - [AI](http://people.csail.mit.edu/stefje/research.html#bayo)
-  - [Optimization](http://people.csail.mit.edu/madry/)
-  - [HCI](https://www.csail.mit.edu/person/rob-miller#groups)
-  - [understood about data by looking at only a very small portion](https://www.csail.mit.edu/person/ronitt-rubinfeld)
-  - [Geometric Data Processing](http://people.csail.mit.edu/jsolomon/#research)
-  - [BIOMEDICAL OPTICAL IMAGING AND BIOPHOTONICS GROUP](http://www.rle.mit.edu/boib/)
-  - [John Guttag](https://www.csail.mit.edu/person/john-guttag#groups) 
-  - [Active Learning for planning](https://www.csail.mit.edu/person/tomas-lozano-perez#projects)
-  - [Signal Processing Group](http://www.rle.mit.edu/dsp-group/)
+  
+  #### [Applied Physics & Devices](http://www.eecs.mit.edu/people/faculty-advisors/37)
+  
   - [BIOMEDICAL OPTICAL IMAGING AND BIOPHOTONICS GROUP](http://www.rle.mit.edu/boib)
   
-  - CS & AI (https://www.csail.mit.edu/)
-  - AI & ML (https://www.csail.mit.edu/research?f[0]=research_area:9)
-  - Computational Biology (https://www.csail.mit.edu/research?f[0]=research_area:11)
-  - Graphics & Vision (https://www.csail.mit.edu/research?f[0]=research_area:17)
-
+  #### [CSAIL](https://www.csail.mit.edu/)
+  
+  - [computational photography & learning for vision](https://billf.mit.edu/)
+  - [Vision Group](https://www.csail.mit.edu/research/vision-group#projects)
+  - [Geometric Data Processing Group](https://www.csail.mit.edu/research/geometric-data-processing-group)
+  - [Machine Learning Group](https://www.csail.mit.edu/research/machine-learning)
+  - [Vision Group](https://www.csail.mit.edu/research/vision-group)
+  - [Antonio Torralbe](http://web.mit.edu/torralba/www/)
+  - [Computatinal Vision](http://projects.csail.mit.edu/photo/)
+  
 
 ## 4th Univ. of Michigan
 
