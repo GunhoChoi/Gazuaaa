@@ -245,6 +245,14 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
  
 
 
+## Boston Univ(Dec 15,2018)
+
+https://bu-eng.liaisoncas.com/
+
+If submitting a TOEFL test, please select Boston University, College of Engineering, institutional code 3087, as a recipient for official reports (no department code is required).
+
+
+
 <동부>
 
 ## 1st MIT (December 15, 2018)
