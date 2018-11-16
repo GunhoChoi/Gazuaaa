@@ -205,7 +205,7 @@ https://apply.grad.ucsd.edu/
   - [Sparse Signal Recovery](http://dsp.ucsd.edu/home/?page_id=4)
   
 
-## 16th UCLA (Due: Dec/1/2018)
+## 16th UCLA (Due: Dec/15/2018)
 
 https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/
 
