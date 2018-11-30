@@ -249,6 +249,8 @@ Only 1 (https://grad.ucla.edu/admissions/faqs/)
 
 https://bu-eng.liaisoncas.com/
 
+[BU Research Labs](https://www.bu.edu/eng/departments/ece/research/research-labs/)
+
 If submitting a TOEFL test, please select Boston University, College of Engineering, institutional code 3087, as a recipient for official reports (no department code is required).
 
 
